@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (New_Map1.vue) 2017-03-13 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon Mar 13 16:11:00 GMT+03:00 2017 by Grotter on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Mon Mar 13 15:54:47 GMT+03:00 2017 by Grotter on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="New_Map1.vue"
     created="1486994231397" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1489410660897" size="160665"
+    <resource referenceCreated="1489409687648" size="160733"
         spec="D:\&#x423;&#x447;&#x435;&#x431;&#x430;\GitHub\SmolaII\&#x411;&#x430;&#x437;&#x430; &#x437;&#x43d;&#x430;&#x43d;&#x438;&#x439; &#x438; &#x441;&#x445;&#x435;&#x43c;&#x430;\New_Map1.vue"
         type="1" xsi:type="URLResource">
         <title>New_Map1.vue</title>
@@ -2248,6 +2248,31 @@
         <ID1 xsi:type="node">198</ID1>
         <ID2 xsi:type="node">210</ID2>
     </child>
+    <child ID="297"
+        label="&#x443;&#x43a;&#x440;&#x430;&#x448;&#x435;&#x43d;=0/1"
+        layerID="1" created="1487600058880" x="-211.16669" y="4293.458"
+        width="156.0" height="41.083496" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#FFFFFF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-18</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/5bf44c28c0a838010130c140c9059c37</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="298" label="&#x41e;&#x421;" layerID="1"
+        created="1487600082067" x="-90.4355" y="4229.3906"
+        width="136.26251" height="65.06738" strokeWidth="2.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/5bf44c28c0a838010130c140875915de</URIString>
+        <point1 x="44.827007" y="4230.3906"/>
+        <point2 x="-89.43551" y="4293.458"/>
+        <ID1 xsi:type="node">282</ID1>
+        <ID2 xsi:type="node">297</ID2>
+    </child>
     <child ID="299"
         label="&#x43d;&#x430;&#x440;&#x435;&#x437;&#x430;&#x43d;&#x44b; = 1"
         layerID="1" created="1487600098869" x="291.16663" y="4218.458"
@@ -3077,6 +3102,31 @@
         <point2 x="408.86096" y="2846.2568"/>
         <ID1 xsi:type="node">212</ID1>
         <ID2 xsi:type="node">219</ID2>
+    </child>
+    <child ID="587"
+        label="&#x443;&#x43a;&#x440;&#x430;&#x448;&#x435;&#x43d;=1"
+        layerID="1" created="1489408521785" x="-99.64688" y="272.82544"
+        width="156.0" height="41.083496" strokeWidth="1.0"
+        autoSized="false" xsi:type="node">
+        <fillColor>#FFFFFF</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-18</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/c7aab2a1ac16676100130ae2e069cd53</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="588" label="&#x41e;&#x421;" layerID="1"
+        created="1489408521785" x="-140.0625" y="267.206"
+        width="41.41562" height="17.0" strokeWidth="2.0"
+        autoSized="false" controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-14</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/c7aab2a1ac16676100130ae253010d4f</URIString>
+        <point1 x="-139.0625" y="272.1437"/>
+        <point2 x="-99.64688" y="279.26828"/>
+        <ID1 xsi:type="node">18</ID1>
+        <ID2 xsi:type="node">587</ID2>
     </child>
     <layer ID="1" label="Layer 1" created="1486994231412" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
